@@ -7,4 +7,4 @@ Summary of LLM Resources.
   
 ## 1. Survey
 - [A Survey on Large Language Models for Recommendation](https://arxiv.org/abs/2305.19860)  
-2023.05 - Likang Wu - University of Science and Technology of China  
+2024.06 - Likang Wu - University of Science and Technology of China  
