@@ -4,7 +4,7 @@ Summary of Application Resources.
 ## Content
 
 - [1. Taxonomy Generation](#1-taxonomy-generation)
-- [2. Table Question Anser](#2-table-question-answer)
+- [2. Table Question Answer](#2-table-question-answer)
   
 ## 1. Taxonomy Generation
 - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/pdf/2403.12173)  
