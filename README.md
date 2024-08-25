@@ -11,7 +11,7 @@ Summary of Application Resources.
 2024.03 - Mengting Wan - Microsoft Corporation
 
 ## 2. Key Point Analysis
-- [Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning](https://arxiv.org/abs/2404.11384)
+- [Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning](https://arxiv.org/abs/2404.11384)  
 2024.04 - Xiao Li - Alibaba Group  
 - [From Key Points to Key Point Hierarchy: Structured and Expressive Opinion Summarization](https://arxiv.org/abs/2306.03853)  
 2023.06 - Arie Cattan - IBM Research  
