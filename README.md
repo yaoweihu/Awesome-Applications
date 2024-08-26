@@ -4,7 +4,10 @@ Summary of Application Resources.
 ## Content
 
 - [1. Taxonomy Generation](#1-taxonomy-generation)
-- [2. TableQA](#2-tableqa)
+- [2. Topic Detection/Clustering](#2-topic-detection/clustering)
+- [3. Topic Modeling](#3-topic-modeling)
+- [4. Key Point Analysis](4-key-point-analysis)
+- [5. TableQA](#2-tableqa)
 
 ## 1. Taxonomy Generation
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf)  
@@ -13,7 +16,7 @@ Summary of Application Resources.
 2024.03 - Mengting Wan - Microsoft Corporation
 
 ## 2. Topic Detection/Clustering
-- [Clustering by Mining Density Distributions and Splitting Manifold Structure](https://arxiv.org/pdf/2408.10493)
+- [Clustering by Mining Density Distributions and Splitting Manifold Structure](https://arxiv.org/pdf/2408.10493)  
 2024.08 - Zhichang Xu - Southwest Jiaotong University
 
 ## 3. Topic Modeling
