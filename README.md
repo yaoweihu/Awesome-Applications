@@ -23,7 +23,9 @@ Summary of Application Resources.
 2024.08 - Zhichang Xu - Southwest Jiaotong University
 - [Actively Learn from LLMs with Uncertainty Propagation for Generalized Category Discovery](https://aclanthology.org/2024.naacl-long.434.pdf)  
 2024.06 - Jinggui Liang - Singapore Management University 
-
+- [ClusterLLM: Large Language Models as a Guide for Text Clustering](https://arxiv.org/abs/2305.14871) ✅  
+2023.05 - Yuwei Zhang - University of California, San Diego  
+  
 ## 3. Key Point Analysis
 - [Exploring Key Point Analysis with Pairwise Generation and Graph Partitioning](https://arxiv.org/abs/2404.11384)  
 2024.04 - Xiao Li - Alibaba Group  
