@@ -16,7 +16,9 @@ Summary of Application Resources.
 - [TnT-LLM: Text Mining at Scale with Large Language Models](https://arxiv.org/pdf/2403.12173) ✅  
 2024.03 - Mengting Wan - Microsoft Corporation  
 - [GPTopic: Dynamic and Interactive Topic Representations](https://arxiv.org/abs/2403.03628) ✅    
-2024.03 - Arik Reuter - LMU Munich  
+2024.03 - Arik Reuter - LMU Munich
+- [TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449) ✅  
+2023.11 - Chau Minh Pham - University of Massachusetts Amherst  
 
 ## 2. Topic Detection/Clustering
 - [Clustering by Mining Density Distributions and Splitting Manifold Structure](https://arxiv.org/pdf/2408.10493) ✅   
