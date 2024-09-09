@@ -37,4 +37,7 @@ Summary of Application Resources.
 ## 4. TableQA
 - [TableBench: A Comprehensive and Complex Benchmark for Table Question Answering](https://arxiv.org/abs/2408.09174)  
 2024.08 - Xianjie Wu - Beihang University
-  
+
+## 5. Citation
+- [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA](https://arxiv.org/abs/2409.02897)  
+2024.09 - Jiajie Zhang - Tsinghua University  
