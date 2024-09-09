@@ -7,6 +7,7 @@ Summary of Application Resources.
 - [2. Topic Detection/Clustering](#2-topic-detection/clustering)
 - [3. Key Point Analysis](3-key-point-analysis)
 - [4. TableQA](#4-tableqa)
+- [5. Citation](#5-citation)
 
 ## 1. Topic Modeling
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf) ✅  
