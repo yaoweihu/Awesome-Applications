@@ -41,4 +41,8 @@ Summary of Application Resources.
 
 ## 5. Citation
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA](https://arxiv.org/abs/2409.02897)  
-2024.09 - Jiajie Zhang - Tsinghua University  
+2024.09 - Jiajie Zhang - Tsinghua University
+
+## 6. Text2SQL
+- [Text2SQL is Not Enough: Unifying AI and Databases with TAG](https://arxiv.org/abs/2408.14717)  
+2024.08 - Asim Biswal - UC Berkeley  
