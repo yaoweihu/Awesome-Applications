@@ -40,6 +40,8 @@ Summary of Application Resources.
 2024.08 - Xianjie Wu - Beihang University  
 - [Text2SQL is Not Enough: Unifying AI and Databases with TAG](https://arxiv.org/abs/2408.14717)  
 2024.08 - Asim Biswal - UC Berkeley
+- [LOTUS: Enabling Semantic Queries with LLMs Over Tables of Unstructured and Structured Data](https://arxiv.org/abs/2407.11418)  
+  2024.07 - Liana Patel - Stanford University  
 
 ## 5. Citation
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA](https://arxiv.org/abs/2409.02897)  
