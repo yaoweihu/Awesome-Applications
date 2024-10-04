@@ -8,6 +8,7 @@ Summary of Application Resources.
 - [3. Key Point Analysis](3-key-point-analysis)
 - [4. TableQA](#4-tableqa)
 - [5. Citation](#5-citation)
+- [6. Information Extraction](#6-information-extraction)
 
 ## 1. Topic Modeling
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf) ✅  
@@ -46,3 +47,7 @@ Summary of Application Resources.
 ## 5. Citation
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA](https://arxiv.org/abs/2409.02897)  
 2024.09 - Jiajie Zhang - Tsinghua University
+
+## 6. Information Extraction
+- [A Survey on Open Information Extraction from Rule-based Model to Large Language Model](https://arxiv.org/abs/2208.08690)  
+2024.05 - Pai Liu - Westlake University  
