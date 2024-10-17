@@ -47,6 +47,10 @@ Summary of Application Resources.
 ## 5. Citation
 - [LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-Context QA](https://arxiv.org/abs/2409.02897)  
 2024.09 - Jiajie Zhang - Tsinghua University
+- [Knowing When to Ask - Bridging Large Language Models and Data](https://arxiv.org/abs/2409.13741)  
+2024.09 - Prashanth Radhakrishnan - Google
+- [Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation](https://arxiv.org/abs/2407.01796v1)  
+2024.07 - Sirui Xia - Fudan University  
 
 ## 6. Information Extraction
 - [A Survey on Open Information Extraction from Rule-based Model to Large Language Model](https://arxiv.org/abs/2208.08690)  
