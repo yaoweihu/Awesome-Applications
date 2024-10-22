@@ -8,7 +8,7 @@ Summary of Application Resources.
 - [3. Key Point Analysis](3-key-point-analysis)
 - [4. TableQA](#4-tableqa)
 - [5. Citation](#5-citation)
-- [6. Information Extraction](#6-information-extraction)
+- [6. Summarization](#6-summarization)
 
 ## 1. Topic Modeling
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf) ✅  
@@ -52,6 +52,6 @@ Summary of Application Resources.
 - [Ground Every Sentence: Improving Retrieval-Augmented LLMs with Interleaved Reference-Claim Generation](https://arxiv.org/abs/2407.01796v1)  
 2024.07 - Sirui Xia - Fudan University  
 
-## 6. Information Extraction
-- [A Survey on Open Information Extraction from Rule-based Model to Large Language Model](https://arxiv.org/abs/2208.08690)  
-2024.05 - Pai Liu - Westlake University  
+## 6. Summarization
+- [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](https://arxiv.org/abs/2410.02741)  
+  2024.10 - Lei Xu - Amazon AWS AI Labs  
