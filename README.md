@@ -57,5 +57,5 @@ Summary of Application Resources.
 - [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](https://arxiv.org/abs/2410.02741)  
   2024.10 - Lei Xu - Amazon AWS AI Labs  
 ## 7. PPT
-- [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](https://arxiv.org/abs/2501.03936)
+- [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](https://arxiv.org/abs/2501.03936)  
   2025.01 - Hao Zheng - Chinese Academy of Sciences  
