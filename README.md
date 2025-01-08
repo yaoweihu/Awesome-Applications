@@ -9,6 +9,7 @@ Summary of Application Resources.
 - [4. TableQA](#4-tableqa)
 - [5. Citation](#5-citation)
 - [6. Summarization](#6-summarization)
+- [7. PPT](#7-ppt)
 
 ## 1. Topic Modeling
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf) ✅  
@@ -55,3 +56,6 @@ Summary of Application Resources.
 ## 6. Summarization
 - [Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization](https://arxiv.org/abs/2410.02741)  
   2024.10 - Lei Xu - Amazon AWS AI Labs  
+## 7. PPT
+- [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](https://arxiv.org/abs/2501.03936)
+  2025.01 - Hao Zheng - Chinese Academy of Sciences  
