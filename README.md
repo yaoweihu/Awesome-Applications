@@ -59,3 +59,8 @@ Summary of Application Resources.
 ## 7. PPT
 - [PPTAgent: Generating and Evaluating Presentations Beyond Text-to-Slides](https://arxiv.org/abs/2501.03936)  
   2025.01 - Hao Zheng - Chinese Academy of Sciences  
+## 8. AI-generated text detection
+- [GigaCheck: Detecting LLM-generated Content](https://arxiv.org/abs/2410.23728)  
+  2024.10 - Irina Tolstykh - SaluteDevices  
+- [AI-generated text boundary detection with RoFT](https://arxiv.org/abs/2311.08349)  
+  2023.11 - Laida Kushnareva - AI Foundation and Algorithm Lab, Russia  
