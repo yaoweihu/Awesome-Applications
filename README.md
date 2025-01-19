@@ -12,6 +12,10 @@ Summary of Application Resources.
 - [7. PPT](#7-ppt)
 
 ## 1. Topic Modeling
+- [LITA: An Efficient LLM-assisted Iterative Topic Augmentation Framework](https://arxiv.org/abs/2412.12459)  
+  2024.12 - Chia-Hsuan Chang - Yale University
+- [Neural Topic Modeling with Large Language Models in the Loop](https://arxiv.org/abs/2411.08534)   
+  2024.11 - Xiaohao Yang - Monash University  
 - [GENWISE: Thematic Discovery from Textual Data](https://aclanthology.org/2024.finnlp-2.8.pdf) ✅  
 2024.08 - Minnie Kabra - American Express AI Labs  
 - [Interactive Topic Models with Optimal Transport](https://arxiv.org/abs/2406.19928)  
