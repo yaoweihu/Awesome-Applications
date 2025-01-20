@@ -25,7 +25,9 @@ Summary of Application Resources.
 - [GPTopic: Dynamic and Interactive Topic Representations](https://arxiv.org/abs/2403.03628) ✅    
 2024.03 - Arik Reuter - LMU Munich
 - [TopicGPT: A Prompt-based Topic Modeling Framework](https://arxiv.org/abs/2311.01449) ✅  
-2023.11 - Chau Minh Pham - University of Massachusetts Amherst  
+2023.11 - Chau Minh Pham - University of Massachusetts Amherst
+- [Neural Topic Model Via Optimal Tansport](https://arxiv.org/pdf/2008.13537)  
+  2020.08 - He Zhao - Monash University  
 
 ## 2. Topic Detection/Clustering
 - [Clustering by Mining Density Distributions and Splitting Manifold Structure](https://arxiv.org/pdf/2408.10493) ✅   
